@@ -7,4 +7,4 @@
 - 🇯🇵 **On the side:** [Fudami](https://fudami.net), a Japanese learning platform, and [Fudami Jisho](https://jisho.fudami.net), a self-hosted dictionary
 - 🗣️ French · English · Japanese (N3)
 
-📄 Portfolio & CV: **[arno-wilhelm.dev](https://arno-wilhelm.dev)** · 💼 [LinkedIn](https://www.linkedin.com/in/arno-wilhelm/) · ✉️ contact@arno-wilhelm.dev
+📄 Portfolio & CV ([EN](https://arno-wilhelm.dev) · [FR](https://arno-wilhelm.dev/fr/) · [日本語](https://arno-wilhelm.dev/ja/)): **[arno-wilhelm.dev](https://arno-wilhelm.dev)** · 💼 [LinkedIn](https://www.linkedin.com/in/arno-wilhelm/) · ✉️ contact@arno-wilhelm.dev
